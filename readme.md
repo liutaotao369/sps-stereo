@@ -8,7 +8,13 @@ SPS-Stereo is a dense stereo method employing a slanted plane model. It jointly 
     author = {Koichiro Yamaguchi and David McAllester and Raquel Urtasun},
     title = {Efficient Joint Segmentation, Occlusion Labeling, Stereo and Flow Estimation},
     booktitle = {ECCV},
-    year = {2014}
+    yearedasdasdasgafsa dsagas sf
+
+gd 
+a
+
+a
+Dsadas dhaskjh asklhd lkasdlkjkl
     }
 
 
